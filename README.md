@@ -6,6 +6,7 @@ This website is a basic web page. There are a lot of things I can do to upgrade 
 This is the domain of the website: 
 
 gbhoang.me
+
 portfolio-website-e8963.web.app
 
 If you cannot access it with the first, try the second one. The domain verification step is a bit complicated and I am still trying to figure it out.
